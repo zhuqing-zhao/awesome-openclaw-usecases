@@ -1,0 +1,9 @@
+globs:
+  - "README.md"
+  - "CONTRIBUTING.md"
+  - "usecases/**/*.md"
+
+config:
+  MD013: false
+  MD033: false
+  MD041: false
