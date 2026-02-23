@@ -39,7 +39,6 @@ jobs:
             --max-concurrency 8
             --timeout 20
             --retry-wait-time 2
-            --exclude-mail
             --accept 200,206,429
             .
         env:
